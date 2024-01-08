@@ -1,0 +1,1 @@
+[{"model":"Intel(R) Pentium(R) CPU B960 @ 2.20GHz","speed":2195,"times":{"user":22986609,"nice":0,"sys":19754750,"idle":132875812,"irq":1012593}},{"model":"Intel(R) Pentium(R) CPU B960 @ 2.20GHz","speed":2195,"times":{"user":24050281,"nice":0,"sys":17758671,"idle":133807968,"irq":187562}}]
